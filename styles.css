@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('../Calculator/Images/starry.jpg');
+    background-image: url('..images/starry.jpg');
     color: #ecf0f1; /* Light text color */
     text-align: center;
     margin: 150px;
